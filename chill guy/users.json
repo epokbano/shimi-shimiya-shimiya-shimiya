@@ -1,0 +1,17 @@
+{
+    "cum": {
+        "username": "cum",
+        "password": "cum123",
+        "role": "Admin"
+    },
+    "chinczyk": {
+        "username": "chinczyk",
+        "password": "cingcong",
+        "role": "Employee"
+    },
+    "chinczyk2": {
+        "username": "chinczyk2",
+        "password": "cingcong2",
+        "role": "Employee"
+    }
+}

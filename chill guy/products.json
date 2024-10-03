@@ -1,0 +1,17 @@
+{
+    "sperma byka": {
+        "name": "sperma byka",
+        "stock": 10,
+        "price": 1500
+    },
+    "zdzicho": {
+        "name": "zdzicho",
+        "stock": 16,
+        "price": 800
+    },
+    "cicho": {
+        "name": "cicho",
+        "stock": 15,
+        "price": 600
+    }
+}
